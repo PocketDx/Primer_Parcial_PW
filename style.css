@@ -1,0 +1,38 @@
+body {
+    margin: 10px;
+}
+
+.container {
+    margin: 40px auto;
+    padding: 20px;
+    border: 2px solid #0f53d1;
+    border-radius: 25px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+form div {
+    margin-bottom: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+.error-message {
+    color: red;
+    font-weight: bold;
+}
+
+button {
+    display: flex;
+}
+
+.center-image {
+    max-width: 25%;
+    margin: auto;   
+}
